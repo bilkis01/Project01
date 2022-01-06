@@ -33,3 +33,45 @@ section{
     width: 70%;
     border-radius: 600px;
 }
+h2{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 35px;
+}
+span{
+    color: purple;
+}
+.card{
+    width: 350px;
+    margin: 35px;
+    background-color: honeydew;
+    box-sizing: border-box;
+    box-shadow: 5px 5px 5px 5px gray;
+    border-radius: 30px;
+}
+.img-style{
+    width: 50%;
+}
+.card-container{
+    box-sizing: border-box;
+    display: flex;
+    padding: 20px 0px;
+    justify-content: center;
+    align-items: center;
+}
+.card-body{
+    padding: 5px;
+}
+.card-title{
+    font-size: 2rem;
+    font-weight: bold;
+}
+.card-desk{
+    text-align: center;
+}
+#color1{
+    background-color: rgb(250, 217, 250);
+}
+#card2{
+    background-color: rgb(178, 178, 226);
+}

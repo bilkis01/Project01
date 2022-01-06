@@ -43,7 +43,7 @@ span{
 }
 .card{
     width: 350px;
-    margin: 35px;
+    margin: 25px;
     background-color: honeydew;
     box-sizing: border-box;
     box-shadow: 5px 5px 5px 5px gray;
@@ -111,6 +111,8 @@ footer{
     text-align: center;
     background-color: black;
     color: white;
-    padding: 30px;
-    padding-left: 10px;
+    width: 100%;
+    margin: 0;
+    
+    
 }

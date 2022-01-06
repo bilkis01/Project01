@@ -75,3 +75,42 @@ span{
 #card2{
     background-color: rgb(178, 178, 226);
 }
+h3{
+    font-size: 50px;
+}
+.top-banner{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 500px;
+}
+.middle-banner{
+    background-image: url(images/shape-7.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 700px;
+}
+h4{
+    font-size: 50px;
+    text-align: center;
+    padding-top: 150px;
+
+}
+.bottom-banner{
+    background-image: url(images/shape-2.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 500px;
+}
+
+footer h5{
+    font-size: 30px;
+    font-style: italic;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 30px;
+    padding-left: 10px;
+}
